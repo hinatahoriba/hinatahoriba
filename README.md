@@ -8,7 +8,7 @@ I'm Hinata -I'm a university student. I work on random projects in my free time.
 
 ## 🌱 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,flask,fastapi,ruby,rails,html,css,javascript,typescript,react,vite,sqlite,mysql,postgresql,dokcer,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,flask,fastapi,ruby,rails,html,css,javascript,typescript,react,vite,sqlite,mysql,postgresql,docker,aws)](https://skillicons.dev)
 
 ## 🏃‍♀️ Activities
 
