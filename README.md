@@ -6,9 +6,11 @@ I'm Hinata -I'm a university student. I work on random projects in my free time.
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-## Skills
+## 🌱 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=py,flask,fastapi,ruby,rails,html,css,javascript,typescript,react,vite,sqlite,mysql,postgresql,dokcer,aws)](https://skillicons.dev)
+
+## 🏃‍♀️ Activities
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hinatahoriba)](https://github.com/anuraghazra/github-readme-stats)
 
