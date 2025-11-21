@@ -15,7 +15,3 @@ I'm Hinata -I'm a university student. I work on random projects in my free time.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hinatahoriba)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinatahoriba)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=hinatahoriba" alt="GitHub Trophy">
-</a>
